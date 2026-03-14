@@ -223,9 +223,6 @@ No additional features were added beyond MS1 scope.
 - Task Breakdown
 - CP2 to OOP Mapping
 
-Full worksheet available here:
-
-[MotorPH MS2 Worksheet (Google Drive)](https://docs.google.com/spreadsheets/d/1bFmfW2W_UjRVoHvczkLe9xB5eGNM-tLUwssmuRMDcQo/edit?usp=sharing)
 
 ---
 
